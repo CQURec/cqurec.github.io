@@ -4,9 +4,8 @@
 
 **Professor | School of Big Data and Software Engineering, Chongqing University** *Ph.D. in Computer Science*
 
-[![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?logo=googlescholar&logoColor=white)](YOUR_GOOGLE_SCHOLAR_URL)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?logo=orcid&logoColor=white)](YOUR_ORCID_URL)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](YOUR_RESEARCHGATE_URL)
+[![Google Scholar]([https://scholar.google.com/citations?user=AfJ0xE4AAAAJ&hl=zh-CN))](YOUR_GOOGLE_SCHOLAR_URL)
+[![ORCID]([https://orcid.org/0000-0003-0839-8773](YOUR_ORCID_URL)
 
 ---
 
