@@ -5,7 +5,7 @@
 Professor | School of Big Data and Software Engineering, Chongqing University Ph.D. in Computer Science
 
 [![Google Scholar](https://img.shields.io/badge/Google-Scholar-4285F4?logo=googlescholar&logoColor=white)](YOUR_GOOGLE_SCHOLAR_URL)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?logo=orcid&logoColor=white)](0000-0003-0839-8773)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?logo=orcid&logoColor=white)]([0000-0003-0839-8773](https://orcid.org/0000-0003-0839-8773))
 ---
 
 ### 🔬 Research Interests
