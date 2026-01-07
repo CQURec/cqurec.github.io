@@ -25,13 +25,6 @@ My research focuses on the intersection of data mining and social computing, spe
 
 ---
 
-### 🛠️ Expertise & Tech Stack
-- **Primary Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-- **Frameworks:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-- **Specializations:** Large Language Models (LLMs) for RecSys, Graph Convolutional Networks (GCN), Contrastive Learning.
-
----
-
 ### 📄 Selected Recent Publications
 *I have authored 80+ peer-reviewed articles in prestigious venues including **IEEE TKDE, IEEE TSC, IEEE TCSS, ACM TOIS, IJCAI,** and **SIGIR**.*
 
