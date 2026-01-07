@@ -50,13 +50,7 @@ My research focuses on the intersection of data mining and social computing, spe
 
 ---
 
-### 📊 GitHub Impact
-![Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=buefy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=buefy)
-
----
-
 ### 📫 Contact
 - **Institution:** Chongqing University, China
-- **Email:** [Your Email Address]
-- **Web:** [Your Lab Website Link]
+- **Email:** [zhouwei@cqu.edu.cn]
+- **Web:** [[Chinese Website Link](http://www.cse.cqu.edu.cn/info/2096/5097.htm)]
